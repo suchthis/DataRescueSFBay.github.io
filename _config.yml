@@ -14,13 +14,13 @@ highlighter: rouge
 
 
 ### content configuration ###
-title:       "Smart Data Hack"
-keywords:    "smart data hack, ilwhack, informatics, university of edinburgh, ilw, innovatio lab"
-description: "Home page for the University of Edinburgh Smart Data Hack"
-source_link: "https://github.com/ilwhack/ilwhack.github.io"
+title:       "DataRescue SF Bay"
+keywords:    ""
+description: "Home page for the DataRescue SF Bay"
+source_link: 
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
-google_analytics_key: UA-73395964-2
+google_analytics_key:
 
 
 ### template colors, used site-wide via css ###

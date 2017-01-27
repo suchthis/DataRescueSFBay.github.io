@@ -6,4 +6,9 @@ color: white
 ---
 
 # Logistics
-This is where we put a map and an eventbrite link, perhaps?
+
+Registration sign-up coming soon! In the meantime, follow along on social media for updates:
+
+* Twitter: [@DataRescueSFBay](https://twitter.com/DataRescueSFBay)
+* Facebook event: https://www.facebook.com/events/1297000053703853/
+* Hashtag: #DataRescueSFBay

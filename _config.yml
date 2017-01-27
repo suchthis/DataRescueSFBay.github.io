@@ -1,0 +1,39 @@
+---
+
+port: 4000
+host: 0.0.0.0
+safe: false
+
+
+### site serving configuration ###
+exclude: [CNAME, README.md, .gitignore, _posts_2015, Gemfile, Gemfile.lock]
+timezone: Europe/London
+lsi: false
+markdown: kramdown
+highlighter: rouge
+
+
+### content configuration ###
+title:       "Smart Data Hack"
+keywords:    "smart data hack, ilwhack, informatics, university of edinburgh, ilw, innovatio lab"
+description: "Home page for the University of Edinburgh Smart Data Hack"
+source_link: "https://github.com/ilwhack/ilwhack.github.io"
+favicon:     #put a path like: "img/favicon.ico"
+touch_icon:  #put a path like: "img/apple-touch-icon.png"
+google_analytics_key: UA-73395964-2
+
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#eee'
+  offwhite:  '#f8f8f8'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
+  darkred:   '#940a3d'
+  limegreen: '#82940a'
+  softgreen: '#0a9461'
+  darkblue:  '#240563'

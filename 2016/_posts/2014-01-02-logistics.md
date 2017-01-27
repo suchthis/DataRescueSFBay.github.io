@@ -15,6 +15,7 @@ Registration sign-up coming soon! In the meantime, follow along on social media 
 
 [<i class="fa fa-github"></i> DataRescueSFBay](https://github.com/DataRescueSFBay)
 
-And use the hashtag #DataRescueSFBay to join the conversation :)
+And use the hashtag [#DataRescueSFBay](https://twitter.com/search?q=%23DataRescueSFBay&src=typd) to join the conversation :)
 
-[<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3149.4916843709984!2d-122.26181374954496!3d37.87218261422354!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80857c24205f9ac1%3A0xf3964e066b8fcfbd!2sBerkeley+Institute+for+Data+Science!5e0!3m2!1sen!2sus!4v1485553676296" width="600" height="400" frameborder="0" style="border:0" allowfullscreen></iframe>]
+<iframe height="450" width="90%" frameborder="0" style="border:0"
+src="https://www.google.com/maps/embed/v1/place?q=190%20Doe%20Library%2C%20Berkeley%20CA&key=AIzaSyBcQ2Q30zhc_PtSFbDzzHC0ZI0JY9xXQeM" allowfullscreen></iframe>

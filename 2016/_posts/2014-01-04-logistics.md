@@ -30,5 +30,3 @@ Berkeley Insititute for Data Science, inside Doe Memorial Library on UC Berkeley
 
 <iframe height="450" width="90%" frameborder="0" style="border:0"
 src="https://www.google.com/maps/embed/v1/place?q=190%20Doe%20Library%2C%20Berkeley%20CA&key=AIzaSyBcQ2Q30zhc_PtSFbDzzHC0ZI0JY9xXQeM" allowfullscreen></iframe>
-
-If you'd like to host a parallel event elsewhere in the Bay, [email us](mailto:datarescuesfbay@googlegroups.com)

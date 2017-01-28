@@ -4,6 +4,7 @@ layout: default
 <div id="main">
 
 <nav><ul>
+  <li>DataRescue SF Bay <img src={{site-url}}"/img/logo_clear.png" alt="Logo" style="height: 50px; vertical-align: middle;"/></li>
   {% for node in site.categories.2016 reversed %}
     {% capture id %}{{ node.id | remove:'/' | downcase | prepend:'id'}}{% endcapture %}
     <li class="p-{{id}}"><a href="#{{id}}">{{node.title}}</a></li>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="62.850899mm"
+   height="68.362961mm"
+   viewBox="0 0 222.70003 242.23096"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   inkscape:export-filename="/Users/emunsing/Documents/Coding/DataRescueSFBay/img/logo_clear.png"
+   inkscape:export-xdpi="223.14101"
+   inkscape:export-ydpi="223.14101"
+   sodipodi:docname="DataRescueSFBayLogo.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.28"
+     inkscape:cx="81.577209"
+     inkscape:cy="46.416663"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     gridtolerance="10"
+     guidetolerance="10000"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1440"
+     inkscape:window-height="804"
+     inkscape:window-x="0"
+     inkscape:window-y="239"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4382"
+       originx="2.6123442"
+       originy="-142.33466" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(2.6123442,-667.79658)">
+    <g
+       id="g4302"
+       transform="translate(-522.46917,-50.436953)">
+      <path
+         style="fill:#0aa1c7"
+         d="M 614.42856,882.12218 C 598.78572,877.46767 583.50301,864.94793 576.66663,851.18723 570.86306,839.50543 569.81983,832.66541 570.14594,808.43365 L 569.93392,786.81179 581.96072,786.78442 C 581.98172,784.66341 581.92856,781.01962 581.92856,771.91654 581.92856,756.69597 583.78654,749.36926 590.00951,740.05029 600.41728,724.46452 619.46299,715.94803 637.60327,718.76823 655.7705,721.59263 670.87315,734.14221 677.01126,751.51437 678.57606,755.9431 679.26965,761.08493 679.76564,771.93365 L 680.52622,786.72662 691.41559,786.68734 691.43696,812.72747 C 690.97377,831.45978 690.92707,834.18647 688.56013,841.51206 682.66305,859.76334 668.28826,874.72634 650.65134,880.97209 641.91142,884.06716 622.9848,884.66808 614.42856,882.12218 Z"
+         id="path4314"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="sssccssssscccsss" />
+      <path
+         style="fill:#ffffff"
+         d="M 656.48614,774.80865 C 656.40862,761.01032 656.28059,756.99195 651.46971,750.69133 642.56443,739.02844 624.5075,737.39049 613.32758,747.23145 605.9722,753.70591 604.20526,760.49851 604.42447,774.75627 L 604.61307,787.0232 656.55356,786.80865 Z"
+         id="path4306"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssssccs" />
+      <path
+         style="fill:#ffffff"
+         d="M 638.01353,832.80841 C 631.46917,819.79916 626.46917,818.79916 624.03245,832.77097 L 621.19692,852.74431 640.03159,852.88946 Z"
+         id="path4312"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#2ea956"
+         d="M 610.18233,959.00807 C 587.71182,954.54326 567.35614,943.37604 551.35114,926.73299 537.81472,912.65694 529.34597,898.2168 524.18753,880.41612 521.51045,871.17808 519.00521,853.26356 520.1348,851.43584 521.23168,849.66105 534.65577,851.06938 545.05686,854.05043 563.36268,859.29704 579.72063,868.83927 593.07616,882.06195 606.30148,895.15572 615.1813,909.40178 621.05983,926.95668 623.96912,935.64463 627.32202,956.12558 626.2797,958.84184 625.47106,960.94911 620.22387,961.00329 610.18233,959.00807 Z M 636.44342,959.89309 C 636.63677,952.32865 637.50855,941.5844 639.46195,933.93368 644.7828,913.09395 654.89143,896.07879 671.17774,880.54866 689.02049,863.53436 712.34061,852.66072 734.80686,850.87985 L 742.55686,850.26552 742.55686,855.37827 C 742.55686,863.14434 739.14554,879.09922 735.29093,889.36135 722.1566,924.32887 690.72167,950.91711 653.77397,958.5177 649.35578,959.42658 642.73492,959.82095 636.44342,959.89309 Z"
+         id="path4304"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ssssssssscssscsssc" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4320"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         transform="translate(290.81632,43.436953)"><flowRegion
+           id="flowRegion4322"><rect
+             id="rect4324"
+             width="85.559921"
+             height="60.811184"
+             x="253.85133"
+             y="833.15912"
+             style="fill:#ffffff" /></flowRegion><flowPara
+           id="flowPara4326"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Myriad;-inkscape-font-specification:Myriad;fill:#ffffff">SF</flowPara></flowRoot>      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="657.45233"
+         y="917.79913"
+         id="text4374"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4376"
+           x="657.45233"
+           y="917.79913"
+           style="font-size:35px;fill:#ffffff">Bay</tspan></text>
+    </g>
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path4407"
+       cx="108.8125"
+       cy="771.92468"
+       r="12.5625" />
+  </g>
+</svg>

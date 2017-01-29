@@ -12,10 +12,6 @@ p {
      text-decoration: none;
 }
 
-a {
-     target: '_blank';
-}
-
 .fa {
     font-family: FontAwesome;
 }

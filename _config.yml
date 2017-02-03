@@ -18,8 +18,8 @@ title:       "DataRescue SF Bay"
 keywords:    ""
 description: "Home page for the DataRescue SF Bay"
 source_link: 
-favicon:     #put a path like: "img/favicon.ico"
-touch_icon:  #put a path like: "img/apple-touch-icon.png"
+favicon:     "img/data_rescue_sf_favicon.jpg"
+touch_icon:  "data_rescue_sf_favicon.jpg"
 google_analytics_key:
 
 
